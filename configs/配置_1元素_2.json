@@ -1,0 +1,41 @@
+{
+    "window_title": "微信图片_20250621183337.png",
+    "regions": [
+        {
+            "name": "Excel标签: dm_air",
+            "type": "文本框",
+            "rect": {
+                "x": 421,
+                "y": 645,
+                "width": 68,
+                "height": 34
+            },
+            "thumbnail": null,
+            "template_path": ""
+        }
+    ],
+    "data_source": {
+        "type": "excel",
+        "path": "C:/Users/WT/Smart-Fermenter-master13comb1/Data5/data.xlsx"
+    },
+    "operations": [
+        {
+            "region": {
+                "name": "Excel标签: dm_air",
+                "type": "文本框",
+                "rect": {
+                    "x": 421,
+                    "y": 645,
+                    "width": 68,
+                    "height": 34
+                },
+                "thumbnail": null,
+                "template_path": ""
+            },
+            "action": "input",
+            "config": {
+                "text": "1"
+            }
+        }
+    ]
+}

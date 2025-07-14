@@ -1,0 +1,311 @@
+{
+    "window_title": "微信图片_20250621183337.png",
+    "regions": [
+        {
+            "name": "Excel标签: dm_air",
+            "type": "文本框",
+            "rect": {
+                "x": 1424,
+                "y": 808,
+                "width": 60,
+                "height": 33
+            },
+            "thumbnail": null,
+            "template_path": ""
+        },
+        {
+            "name": "Excel标签: m_ls_opt_do",
+            "type": "文本框",
+            "rect": {
+                "x": 310,
+                "y": 424,
+                "width": 64,
+                "height": 32
+            },
+            "thumbnail": null,
+            "template_path": ""
+        },
+        {
+            "name": "Excel标签: m_ph",
+            "type": "文本框",
+            "rect": {
+                "x": 1100,
+                "y": 294,
+                "width": 49,
+                "height": 18
+            },
+            "thumbnail": null,
+            "template_path": ""
+        },
+        {
+            "name": "Excel标签: m_stirrer",
+            "type": "文本框",
+            "rect": {
+                "x": 1321,
+                "y": 485,
+                "width": 80,
+                "height": 19
+            },
+            "thumbnail": null,
+            "template_path": ""
+        },
+        {
+            "name": "Excel标签: m_temp",
+            "type": "文本框",
+            "rect": {
+                "x": 605,
+                "y": 428,
+                "width": 66,
+                "height": 21
+            },
+            "thumbnail": null,
+            "template_path": ""
+        },
+        {
+            "name": "Excel标签: dm_o2",
+            "type": "文本框",
+            "rect": {
+                "x": 320,
+                "y": 429,
+                "width": 48,
+                "height": 24
+            },
+            "thumbnail": null,
+            "template_path": ""
+        },
+        {
+            "name": "Excel标签: dm_spump1",
+            "type": "文本框",
+            "rect": {
+                "x": 432,
+                "y": 653,
+                "width": 55,
+                "height": 21
+            },
+            "thumbnail": null,
+            "template_path": ""
+        },
+        {
+            "name": "Excel标签: dm_spump2",
+            "type": "文本框",
+            "rect": {
+                "x": 427,
+                "y": 849,
+                "width": 61,
+                "height": 17
+            },
+            "thumbnail": null,
+            "template_path": ""
+        },
+        {
+            "name": "Excel标签: dm_spump3",
+            "type": "文本框",
+            "rect": {
+                "x": 754,
+                "y": 657,
+                "width": 61,
+                "height": 15
+            },
+            "thumbnail": null,
+            "template_path": ""
+        },
+        {
+            "name": "Excel标签: dm_spump4",
+            "type": "文本框",
+            "rect": {
+                "x": 754,
+                "y": 849,
+                "width": 58,
+                "height": 20
+            },
+            "thumbnail": null,
+            "template_path": ""
+        }
+    ],
+    "data_source": {
+        "type": "excel",
+        "path": "C:/Users/WT/Smart-Fermenter-master13comb1/predictseek.xlsx"
+    },
+    "operations": [
+        {
+            "region": {
+                "name": "Excel标签: dm_air",
+                "type": "文本框",
+                "rect": {
+                    "x": 1424,
+                    "y": 808,
+                    "width": 60,
+                    "height": 33
+                },
+                "thumbnail": null,
+                "template_path": ""
+            },
+            "action": "input",
+            "config": {
+                "text": "1"
+            }
+        },
+        {
+            "region": {
+                "name": "Excel标签: m_ls_opt_do",
+                "type": "文本框",
+                "rect": {
+                    "x": 310,
+                    "y": 424,
+                    "width": 64,
+                    "height": 32
+                },
+                "thumbnail": null,
+                "template_path": ""
+            },
+            "action": "input",
+            "config": {
+                "text": "1"
+            }
+        },
+        {
+            "region": {
+                "name": "Excel标签: m_ph",
+                "type": "文本框",
+                "rect": {
+                    "x": 1100,
+                    "y": 294,
+                    "width": 49,
+                    "height": 18
+                },
+                "thumbnail": null,
+                "template_path": ""
+            },
+            "action": "input",
+            "config": {
+                "text": "1"
+            }
+        },
+        {
+            "region": {
+                "name": "Excel标签: m_stirrer",
+                "type": "文本框",
+                "rect": {
+                    "x": 1321,
+                    "y": 485,
+                    "width": 80,
+                    "height": 19
+                },
+                "thumbnail": null,
+                "template_path": ""
+            },
+            "action": "input",
+            "config": {
+                "text": "1"
+            }
+        },
+        {
+            "region": {
+                "name": "Excel标签: m_temp",
+                "type": "文本框",
+                "rect": {
+                    "x": 605,
+                    "y": 428,
+                    "width": 66,
+                    "height": 21
+                },
+                "thumbnail": null,
+                "template_path": ""
+            },
+            "action": "input",
+            "config": {
+                "text": "1"
+            }
+        },
+        {
+            "region": {
+                "name": "Excel标签: dm_o2",
+                "type": "文本框",
+                "rect": {
+                    "x": 320,
+                    "y": 429,
+                    "width": 48,
+                    "height": 24
+                },
+                "thumbnail": null,
+                "template_path": ""
+            },
+            "action": "input",
+            "config": {
+                "text": "1"
+            }
+        },
+        {
+            "region": {
+                "name": "Excel标签: dm_spump1",
+                "type": "文本框",
+                "rect": {
+                    "x": 432,
+                    "y": 653,
+                    "width": 55,
+                    "height": 21
+                },
+                "thumbnail": null,
+                "template_path": ""
+            },
+            "action": "input",
+            "config": {
+                "text": "1"
+            }
+        },
+        {
+            "region": {
+                "name": "Excel标签: dm_spump2",
+                "type": "文本框",
+                "rect": {
+                    "x": 427,
+                    "y": 849,
+                    "width": 61,
+                    "height": 17
+                },
+                "thumbnail": null,
+                "template_path": ""
+            },
+            "action": "input",
+            "config": {
+                "text": "1"
+            }
+        },
+        {
+            "region": {
+                "name": "Excel标签: dm_spump3",
+                "type": "文本框",
+                "rect": {
+                    "x": 754,
+                    "y": 657,
+                    "width": 61,
+                    "height": 15
+                },
+                "thumbnail": null,
+                "template_path": ""
+            },
+            "action": "input",
+            "config": {
+                "text": "1"
+            }
+        },
+        {
+            "region": {
+                "name": "Excel标签: dm_spump4",
+                "type": "文本框",
+                "rect": {
+                    "x": 754,
+                    "y": 849,
+                    "width": 58,
+                    "height": 20
+                },
+                "thumbnail": null,
+                "template_path": ""
+            },
+            "action": "input",
+            "config": {
+                "text": "1"
+            }
+        }
+    ]
+}

@@ -1,0 +1,311 @@
+{
+    "window_title": "微信图片_20250621183337.png",
+    "regions": [
+        {
+            "name": "dm_air",
+            "type": "文本框",
+            "rect": {
+                "x": 140,
+                "y": 656,
+                "width": 72,
+                "height": 39
+            },
+            "thumbnail": null,
+            "template_path": ""
+        },
+        {
+            "name": "m_ls_opt_do",
+            "type": "文本框",
+            "rect": {
+                "x": 280,
+                "y": 664,
+                "width": 64,
+                "height": 36
+            },
+            "thumbnail": null,
+            "template_path": ""
+        },
+        {
+            "name": "m_ph",
+            "type": "文本框",
+            "rect": {
+                "x": 603,
+                "y": 662,
+                "width": 72,
+                "height": 39
+            },
+            "thumbnail": null,
+            "template_path": ""
+        },
+        {
+            "name": "m_stirrer",
+            "type": "文本框",
+            "rect": {
+                "x": 448,
+                "y": 442,
+                "width": 80,
+                "height": 45
+            },
+            "thumbnail": null,
+            "template_path": ""
+        },
+        {
+            "name": "m_temp",
+            "type": "文本框",
+            "rect": {
+                "x": 453,
+                "y": 371,
+                "width": 107,
+                "height": 37
+            },
+            "thumbnail": null,
+            "template_path": ""
+        },
+        {
+            "name": "dm_o2",
+            "type": "文本框",
+            "rect": {
+                "x": 1255,
+                "y": 663,
+                "width": 86,
+                "height": 36
+            },
+            "thumbnail": null,
+            "template_path": ""
+        },
+        {
+            "name": "dm_spump1",
+            "type": "文本框",
+            "rect": {
+                "x": 448,
+                "y": 443,
+                "width": 87,
+                "height": 35
+            },
+            "thumbnail": null,
+            "template_path": ""
+        },
+        {
+            "name": "dm_spump2",
+            "type": "文本框",
+            "rect": {
+                "x": 265,
+                "y": 651,
+                "width": 78,
+                "height": 50
+            },
+            "thumbnail": null,
+            "template_path": ""
+        },
+        {
+            "name": "dm_spump3",
+            "type": "文本框",
+            "rect": {
+                "x": 603,
+                "y": 857,
+                "width": 75,
+                "height": 32
+            },
+            "thumbnail": null,
+            "template_path": ""
+        },
+        {
+            "name": "dm_spump4",
+            "type": "文本框",
+            "rect": {
+                "x": 1155,
+                "y": 499,
+                "width": 102,
+                "height": 42
+            },
+            "thumbnail": null,
+            "template_path": ""
+        }
+    ],
+    "data_source": {
+        "type": "excel",
+        "path": "C:/Users/WT/Smart-Fermenter-master13comb1/predictseek.xlsx"
+    },
+    "operations": [
+        {
+            "region": {
+                "name": "dm_air",
+                "type": "文本框",
+                "rect": {
+                    "x": 140,
+                    "y": 656,
+                    "width": 72,
+                    "height": 39
+                },
+                "thumbnail": null,
+                "template_path": ""
+            },
+            "action": "input",
+            "config": {
+                "text": "1"
+            }
+        },
+        {
+            "region": {
+                "name": "m_ls_opt_do",
+                "type": "文本框",
+                "rect": {
+                    "x": 280,
+                    "y": 664,
+                    "width": 64,
+                    "height": 36
+                },
+                "thumbnail": null,
+                "template_path": ""
+            },
+            "action": "input",
+            "config": {
+                "text": "1"
+            }
+        },
+        {
+            "region": {
+                "name": "m_ph",
+                "type": "文本框",
+                "rect": {
+                    "x": 603,
+                    "y": 662,
+                    "width": 72,
+                    "height": 39
+                },
+                "thumbnail": null,
+                "template_path": ""
+            },
+            "action": "input",
+            "config": {
+                "text": "1"
+            }
+        },
+        {
+            "region": {
+                "name": "m_stirrer",
+                "type": "文本框",
+                "rect": {
+                    "x": 448,
+                    "y": 442,
+                    "width": 80,
+                    "height": 45
+                },
+                "thumbnail": null,
+                "template_path": ""
+            },
+            "action": "input",
+            "config": {
+                "text": "1"
+            }
+        },
+        {
+            "region": {
+                "name": "m_temp",
+                "type": "文本框",
+                "rect": {
+                    "x": 453,
+                    "y": 371,
+                    "width": 107,
+                    "height": 37
+                },
+                "thumbnail": null,
+                "template_path": ""
+            },
+            "action": "input",
+            "config": {
+                "text": "1"
+            }
+        },
+        {
+            "region": {
+                "name": "dm_o2",
+                "type": "文本框",
+                "rect": {
+                    "x": 1255,
+                    "y": 663,
+                    "width": 86,
+                    "height": 36
+                },
+                "thumbnail": null,
+                "template_path": ""
+            },
+            "action": "input",
+            "config": {
+                "text": "1"
+            }
+        },
+        {
+            "region": {
+                "name": "dm_spump1",
+                "type": "文本框",
+                "rect": {
+                    "x": 448,
+                    "y": 443,
+                    "width": 87,
+                    "height": 35
+                },
+                "thumbnail": null,
+                "template_path": ""
+            },
+            "action": "input",
+            "config": {
+                "text": "1"
+            }
+        },
+        {
+            "region": {
+                "name": "dm_spump2",
+                "type": "文本框",
+                "rect": {
+                    "x": 265,
+                    "y": 651,
+                    "width": 78,
+                    "height": 50
+                },
+                "thumbnail": null,
+                "template_path": ""
+            },
+            "action": "input",
+            "config": {
+                "text": "1"
+            }
+        },
+        {
+            "region": {
+                "name": "dm_spump3",
+                "type": "文本框",
+                "rect": {
+                    "x": 603,
+                    "y": 857,
+                    "width": 75,
+                    "height": 32
+                },
+                "thumbnail": null,
+                "template_path": ""
+            },
+            "action": "input",
+            "config": {
+                "text": "1"
+            }
+        },
+        {
+            "region": {
+                "name": "dm_spump4",
+                "type": "文本框",
+                "rect": {
+                    "x": 1155,
+                    "y": 499,
+                    "width": 102,
+                    "height": 42
+                },
+                "thumbnail": null,
+                "template_path": ""
+            },
+            "action": "input",
+            "config": {
+                "text": "1"
+            }
+        }
+    ]
+}

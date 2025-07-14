@@ -1,0 +1,275 @@
+{
+    "window_title": "微信图片_20250621183337.png",
+    "regions": [
+        {
+            "name": "Excel标签: dm_air",
+            "type": "文本框",
+            "rect": {
+                "x": 1423,
+                "y": 804,
+                "width": 58,
+                "height": 40
+            },
+            "thumbnail": null,
+            "template_path": ""
+        },
+        {
+            "name": "Excel标签: m_ls_opt_do",
+            "type": "文本框",
+            "rect": {
+                "x": 315,
+                "y": 430,
+                "width": 48,
+                "height": 21
+            },
+            "thumbnail": null,
+            "template_path": ""
+        },
+        {
+            "name": "Excel标签: m_ph",
+            "type": "文本框",
+            "rect": {
+                "x": 0,
+                "y": 0,
+                "width": 100,
+                "height": 30
+            }
+        },
+        {
+            "name": "Excel标签: m_stirrer",
+            "type": "文本框",
+            "rect": {
+                "x": 0,
+                "y": 0,
+                "width": 100,
+                "height": 30
+            }
+        },
+        {
+            "name": "Excel标签: m_temp",
+            "type": "文本框",
+            "rect": {
+                "x": 0,
+                "y": 0,
+                "width": 100,
+                "height": 30
+            }
+        },
+        {
+            "name": "Excel标签: dm_o2",
+            "type": "文本框",
+            "rect": {
+                "x": 0,
+                "y": 0,
+                "width": 100,
+                "height": 30
+            }
+        },
+        {
+            "name": "Excel标签: dm_spump1",
+            "type": "文本框",
+            "rect": {
+                "x": 0,
+                "y": 0,
+                "width": 100,
+                "height": 30
+            }
+        },
+        {
+            "name": "Excel标签: dm_spump2",
+            "type": "文本框",
+            "rect": {
+                "x": 0,
+                "y": 0,
+                "width": 100,
+                "height": 30
+            }
+        },
+        {
+            "name": "Excel标签: dm_spump3",
+            "type": "文本框",
+            "rect": {
+                "x": 0,
+                "y": 0,
+                "width": 100,
+                "height": 30
+            }
+        },
+        {
+            "name": "Excel标签: dm_spump4",
+            "type": "文本框",
+            "rect": {
+                "x": 0,
+                "y": 0,
+                "width": 100,
+                "height": 30
+            }
+        }
+    ],
+    "data_source": {
+        "type": "excel",
+        "path": "C:/Users/WT/Smart-Fermenter-master13comb1/Data5/28/daiTY/predictseek.xlsx"
+    },
+    "operations": [
+        {
+            "region": {
+                "name": "Excel标签: dm_air",
+                "type": "文本框",
+                "rect": {
+                    "x": 0,
+                    "y": 0,
+                    "width": 100,
+                    "height": 30
+                }
+            },
+            "action": "input",
+            "config": {
+                "text": "1"
+            }
+        },
+        {
+            "region": {
+                "name": "Excel标签: m_ls_opt_do",
+                "type": "文本框",
+                "rect": {
+                    "x": 0,
+                    "y": 0,
+                    "width": 100,
+                    "height": 30
+                }
+            },
+            "action": "input",
+            "config": {
+                "text": "1"
+            }
+        },
+        {
+            "region": {
+                "name": "Excel标签: m_ph",
+                "type": "文本框",
+                "rect": {
+                    "x": 0,
+                    "y": 0,
+                    "width": 100,
+                    "height": 30
+                }
+            },
+            "action": "input",
+            "config": {
+                "text": "1"
+            }
+        },
+        {
+            "region": {
+                "name": "Excel标签: m_stirrer",
+                "type": "文本框",
+                "rect": {
+                    "x": 0,
+                    "y": 0,
+                    "width": 100,
+                    "height": 30
+                }
+            },
+            "action": "input",
+            "config": {
+                "text": "1"
+            }
+        },
+        {
+            "region": {
+                "name": "Excel标签: m_temp",
+                "type": "文本框",
+                "rect": {
+                    "x": 0,
+                    "y": 0,
+                    "width": 100,
+                    "height": 30
+                }
+            },
+            "action": "input",
+            "config": {
+                "text": "1"
+            }
+        },
+        {
+            "region": {
+                "name": "Excel标签: dm_o2",
+                "type": "文本框",
+                "rect": {
+                    "x": 0,
+                    "y": 0,
+                    "width": 100,
+                    "height": 30
+                }
+            },
+            "action": "input",
+            "config": {
+                "text": "1"
+            }
+        },
+        {
+            "region": {
+                "name": "Excel标签: dm_spump1",
+                "type": "文本框",
+                "rect": {
+                    "x": 0,
+                    "y": 0,
+                    "width": 100,
+                    "height": 30
+                }
+            },
+            "action": "input",
+            "config": {
+                "text": "1"
+            }
+        },
+        {
+            "region": {
+                "name": "Excel标签: dm_spump2",
+                "type": "文本框",
+                "rect": {
+                    "x": 0,
+                    "y": 0,
+                    "width": 100,
+                    "height": 30
+                }
+            },
+            "action": "input",
+            "config": {
+                "text": "1"
+            }
+        },
+        {
+            "region": {
+                "name": "Excel标签: dm_spump3",
+                "type": "文本框",
+                "rect": {
+                    "x": 0,
+                    "y": 0,
+                    "width": 100,
+                    "height": 30
+                }
+            },
+            "action": "input",
+            "config": {
+                "text": "1"
+            }
+        },
+        {
+            "region": {
+                "name": "Excel标签: dm_spump4",
+                "type": "文本框",
+                "rect": {
+                    "x": 0,
+                    "y": 0,
+                    "width": 100,
+                    "height": 30
+                }
+            },
+            "action": "input",
+            "config": {
+                "text": "1"
+            }
+        }
+    ]
+}

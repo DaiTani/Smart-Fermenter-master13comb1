@@ -1,0 +1,41 @@
+{
+    "window_title": "无标题 - Notepad",
+    "regions": [
+        {
+            "name": "dm_spump3",
+            "type": "文本框",
+            "rect": {
+                "x": 1162,
+                "y": 816,
+                "width": 119,
+                "height": 36
+            },
+            "thumbnail": null,
+            "template_path": ""
+        }
+    ],
+    "data_source": {
+        "type": "excel",
+        "path": "C:/Users/WT/Smart-Fermenter-master13comb1/Data5/28/leucine_fermentation_data2.xlsx"
+    },
+    "operations": [
+        {
+            "region": {
+                "name": "dm_spump3",
+                "type": "文本框",
+                "rect": {
+                    "x": 1162,
+                    "y": 816,
+                    "width": 119,
+                    "height": 36
+                },
+                "thumbnail": null,
+                "template_path": ""
+            },
+            "action": "input",
+            "config": {
+                "text": "1"
+            }
+        }
+    ]
+}

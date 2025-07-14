@@ -1,0 +1,71 @@
+{
+    "window_title": "微信图片_20250621183337.png",
+    "regions": [
+        {
+            "name": "Excel标签: dm_spump3",
+            "type": "文本框",
+            "rect": {
+                "x": 1187,
+                "y": 843,
+                "width": 79,
+                "height": 44
+            },
+            "thumbnail": null,
+            "template_path": ""
+        },
+        {
+            "name": "Excel标签: dm_spump4",
+            "type": "文本框",
+            "rect": {
+                "x": 1256,
+                "y": 876,
+                "width": 93,
+                "height": 43
+            },
+            "thumbnail": null,
+            "template_path": ""
+        }
+    ],
+    "data_source": {
+        "type": "excel",
+        "path": "C:/Users/WT/Smart-Fermenter-master13comb1/predictseek.xlsx"
+    },
+    "operations": [
+        {
+            "region": {
+                "name": "Excel标签: dm_spump3",
+                "type": "文本框",
+                "rect": {
+                    "x": 1187,
+                    "y": 843,
+                    "width": 79,
+                    "height": 44
+                },
+                "thumbnail": null,
+                "template_path": ""
+            },
+            "action": "input",
+            "config": {
+                "text": "1"
+            }
+        },
+        {
+            "region": {
+                "name": "Excel标签: dm_spump4",
+                "type": "文本框",
+                "rect": {
+                    "x": 1256,
+                    "y": 876,
+                    "width": 93,
+                    "height": 43
+                },
+                "thumbnail": null,
+                "template_path": ""
+            },
+            "action": "input",
+            "config": {
+                "text": "1"
+            }
+        }
+    ]
+}
